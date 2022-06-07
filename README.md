@@ -79,3 +79,14 @@ Note that:
 - We set `OMP_NUM_THREADS=1` by default, which achieves the best speed on our machines, please change it as needed.
 - This quick start is made for LosNet. If you are using other projects, please check the projects' own `README.md` in [configs](configs). 
 - When you run the demo, the folder is determined according to your situation.
+
+## **Cite**
+
+```
+@inproceedings{tian2020conditional,
+  title     =  {Conditional Convolutions for Instance Segmentation},
+  author    =  {Tian, Zhi and Shen, Chunhua and Chen, Hao},
+  booktitle =  {Proc. Eur. Conf. Computer Vision (ECCV)},
+  year      =  {2020}
+}
+```
