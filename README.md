@@ -1,3 +1,11 @@
+## **Introduction**
+
+LosNet is  a novel efficient and lightweight framework for ore image segmentation.
+
+For more details, please refer to our [paper](https://www.mdpi.com/2075-163X/12/5/526).
+
+The source code can be found in [AdelaiDet](https://github.com/aim-uofa/AdelaiDet.git) . AdelaiDet is an open source toolbox for multiple instance-level recognition tasks on top of [Detectron2](https://github.com/facebookresearch/detectron2).
+
 ## Installation
 
 ### Requirements
