@@ -83,10 +83,13 @@ Note that:
 ## **Cite**
 
 ```
-@inproceedings{tian2020conditional,
-  title     =  {Conditional Convolutions for Instance Segmentation},
-  author    =  {Tian, Zhi and Shen, Chunhua and Chen, Hao},
-  booktitle =  {Proc. Eur. Conf. Computer Vision (ECCV)},
-  year      =  {2020}
+@Article{min12050526,
+AUTHOR = {Sun, Guodong and Huang, Delong and Cheng, Le and Jia, Junjie and Xiong, Chenyun and Zhang, Yang},
+TITLE = {Efficient and Lightweight Framework for Real-Time Ore Image Segmentation Based on Deep Learning},
+JOURNAL = {Minerals},
+VOLUME = {12},
+YEAR = {2022},
+NUMBER = {5},
+ARTICLE-NUMBER = {526},
 }
 ```
